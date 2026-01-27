@@ -1477,7 +1477,7 @@ body:not(.post-template) .post-title {
     }
 
     .main-nav {
-        padding: 0;
+        padding: 10px;
         margin-bottom: 2rem;
         border-bottom: #e0e4e7 1px solid;
     }
@@ -1496,7 +1496,7 @@ body:not(.post-template) .post-title {
         line-height: 41px;
         border-radius: 0;
         color: #2e2e2e;
-        background: transparent;
+        /*background: transparent;*/
     }
     .back-button:hover,
     .subscribe-button:hover {
@@ -1529,7 +1529,7 @@ body:not(.post-template) .post-title {
 
     .main-nav.overlay .back-button,
     .main-nav.overlay .subscribe-button {
-        border-color: transparent;
+        /*border-color: transparent;*/
     }
 
     .blog-logo img {
