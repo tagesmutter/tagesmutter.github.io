@@ -462,6 +462,11 @@ margin on the iframe, cause it breaks stuff. */
     vertical-align: middle;
 }
 
+.iconv
+{
+    display: flex; gap: 10px;
+}
+
 
 /* ==========================================================================
    4. General - The main styles for the the theme
