@@ -242,10 +242,10 @@ a:hover {
 }
 
 p, ul, ol, dl {
-    -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
-    -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
+    font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     margin: 1em 0 1.75em 0;
+    color: #555;
+    font-weight: 300;
 }
 
 ol, ul {
@@ -433,16 +433,15 @@ margin on the iframe, cause it breaks stuff. */
    3. Utilities - These things get used a lot
    ========================================================================== */
 
-/* Clears shit */
+/* Clear */
 .clearfix:before,
 .clearfix:after {
     content: " ";
     display: table;
 }
 .clearfix:after { clear: both; }
-.clearfix { *zoom: 1; }
 
-/* Hides shit */
+/* Hide */
 .hidden {
     text-indent: -9999px;
     visibility: hidden;
@@ -638,6 +637,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .main-nav.overlay a {
     color: #fff;
+    font-weight: 600;
 }
 
 .main-nav.overlay .back-button,
