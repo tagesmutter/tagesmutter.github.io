@@ -647,10 +647,17 @@ margin on the iframe, cause it breaks stuff. */
 
 .main-nav.overlay a:hover {
     color: #222;
+    border-color: #ddd;
+    background: #ddd;
+    transition: all 0.1s ease;
+}
+.main-nav.overlay a.selected {
+    color: #222;
     border-color: #fff;
     background: #fff;
     transition: all 0.1s ease;
 }
+
 
 /* Add a border to the buttons on hover */
 .back-button:hover,
@@ -1570,7 +1577,7 @@ body:not(.post-template) .post-title {
 
     p, ul, ol, dl {
         font-size: 0.95em;
-        margin: 0 0 2.5rem 0;
+        margin: 1em 0 2.5rem 0;
     }
 
     .page-title {
