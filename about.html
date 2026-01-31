@@ -30,6 +30,25 @@
             Ich liebe es, Kinder zu betreuen und sie in ihrer Entwicklung zu fördern.
         </p>
     </article>
+
+    <!-- Create links -->
+    <div id="gallery" style="text-align: center;">
+        <a data-fslightbox="gallery" href="photos/IMG-20260131-WA0003.jpg">
+            <img alt="Foto-Galerie" src="photos/IMG-20260131-WA0003.jpg" style="max-width: 90vw">
+        </a>
+    </div>
+    <script>
+        const div = document.getElementById("gallery")
+        for(let i=4; i<54; i++)
+        {
+            let link = document.createElement("a")
+            link.setAttribute("data-fslightbox", "gallery")
+            link.href = "photos/IMG-20260131-WA00" + (i<10 ? "0" : "") + i + ".jpg"
+            div.appendChild(link)
+        }
+    </script>
+    <script src="fslightbox/fslightbox.js"></script>
+    
 </main>
 
 <footer class="site-footer">
