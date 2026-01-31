@@ -151,6 +151,20 @@ a {
 a:hover {
     color: #111;
 }
+a.btn
+{
+    display: inline-block;
+    padding: 10px 15px;
+    background: #333;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+}
+a.btn:hover
+{
+    background: #555;
+    text-decoration: underline;
+}
 
 p, ul, ol, dl {
     font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
