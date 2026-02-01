@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svg-icon"
+   style="width: 1em;height: 1em;vertical-align: middle;fill: currentColor;overflow: hidden;"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <g
+     id="g4"
+     transform="matrix(0.86970888,0,0,0.86970888,66.709055,67.35105)">
+    <path
+       d="m 512,160.0135 c -194.39696,0 -351.9945,157.59754 -351.9945,351.9945 h 96.36649 c 0,-141.18179 114.43022,-255.62801 255.62801,-255.62801 141.16579,0 255.62801,114.43022 255.62801,255.62801 H 863.9945 C 863.9945,317.61104 706.39696,160.0135 512,160.0135 Z"
+       fill="#387aa7"
+       id="path1" />
+    <path
+       d="m 512,96.0145 c -229.74041,0 -415.9935,186.25309 -415.9935,415.9935 h 96.1905 c 0,-176.62124 143.18176,-319.803 319.803,-319.803 176.62124,0 319.803,143.18176 319.803,319.803 h 96.1905 C 927.9935,282.26759 741.74041,96.0145 512,96.0145 Z"
+       fill="#88c057"
+       id="path2" />
+    <path
+       d="m 512,32.0155 c -265.08386,0 -479.9925,214.89264 -479.9925,479.9925 h 95.9985 c 0,-212.07669 171.91731,-383.994 383.994,-383.994 212.07669,0 383.994,171.91731 383.994,383.994 h 95.9985 C 991.9925,246.90814 777.08386,32.0155 512,32.0155 Z"
+       fill="#ffcc66"
+       id="path3" />
+    <path
+       d="M 512,0 C 229.22042,0 0.008,229.22842 0.008,512.008 H 64.007 C 64.007,264.57187 264.57987,64.015 512,64.015 c 247.42013,0 447.993,200.55687 447.993,447.993 h 63.999 C 1023.992,229.22842 794.76358,0 512,0 Z"
+       fill="#ed7161"
+       id="path4" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:bold;font-size:166.824px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:43.4438;stroke-linejoin:round"
+     x="509.33575"
+     y="717.76263"
+     id="text4"><tspan
+       id="tspan4"
+       x="509.33575"
+       y="717.76263"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:166.824px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:43.4438">Elvira</tspan><tspan
+       x="509.33575"
+       y="928.28876"
+       id="tspan5"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:166.824px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';stroke-width:43.4438">Schmidt</tspan></text>
+</svg>
